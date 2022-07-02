@@ -1,6 +1,14 @@
 # Tomato-yeild-and-maturity-detection-python-code
 ## Overview
-# ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/Tomato-yeild-and-maturity-detection-python-code/blob/main/pexels-mehdi-10179855_o8CDrXtk.mp4)
+# ![alt text](https://raw.githubusercontent.com/AsadHayat89/Tomato-yeild-and-maturity-detection-python-code/main/predict.jpg)
 
 ## Requirements
 Windows 10 
+## Details
+Tomato yield and maturity estimation is deep based project developed to monitor maturity level of tomatoes in the field. In the image above overview section, you can see model is counting the tomatoes and predicting whether tomatoes are ripped or not. We train the yoloV5 model on custom dataset obtained from laboro tomatoes [link](https://github.com/laboroai/LaboroTomato). We changed the annotations of dataset according to yolo requirements and then tarin the model. 
+
+## Author Information
+### Name
+Asad Hayat
+### Email
+asadhayat2007@gmail.com
